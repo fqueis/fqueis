@@ -21,8 +21,6 @@
 - 📖 I am currently reading [The Man Who Solved the Market](https://amzn.com/073521798X)
 - 💭 Fun fact: ich lerne Deutsch 🇩🇪
 
-<br/>
-
 ### ⛏️ language & tools:
 
 <p>
