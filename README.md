@@ -12,7 +12,7 @@
 
 <img width="35%" align="right" alt="fqueis" src="assets/profile.gif" /></p>
 
-### 🤵 about me:
+## 🤵 about me:
 
 - 🏢 I'm working for a traffic governmental institution
 - 🖥️ I use daily `.java`, `.js`, `.html`, `.css`, `.sql`
@@ -21,7 +21,7 @@
 - 📖 I am currently reading [The Man Who Solved the Market](https://amzn.com/073521798X)
 - 💭 Fun fact: ich lerne Deutsch 🇩🇪
 
-### ⛏️ language & tools:
+## ⛏️ language & tools:
 
 <p>
   <a href="https://github.com/fqueis">
