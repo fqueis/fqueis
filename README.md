@@ -17,7 +17,7 @@
 - 🌱 I'm currently learning **Cassandra** and **Flutter**
 - 💬 [Talk to me](https://github.com/fqueis/fqueis/discussions) about web dev, tech and crypto currencies
 - 📖 I am currently reading [The Man Who Solved the Market](https://amzn.com/073521798X)
-- 💭 Fun fact: ich lerne Deutsch 🇩🇪
+- 💭 Fun fact: ich lerne Deutsch
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
