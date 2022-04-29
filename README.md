@@ -6,7 +6,7 @@
   <a href="mailto:fqueis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">I'm Felipe Queis, a passionate full stack developer and crypto currency enthusiast from Brazil 🇧🇷</p>
+<p align="center">I'm Felipe Queis, a passionate full stack developer and crypto currency enthusiast from Brazil</p>
 
 <img width="35%" align="right" alt="fqueis" src="assets/profile.gif" /></p>
 
