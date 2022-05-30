@@ -20,7 +20,7 @@
 - 💭 Fun fact: ich lerne Deutsch
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2047%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,5 +63,5 @@ Windows                  25 mins             ███████████�
 ```
 
 
- Last Updated on 30/05/2022 01:02:45 UTC
+ Last Updated on 30/05/2022 01:03:04 UTC
 <!--END_SECTION:waka-->
