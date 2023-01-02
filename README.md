@@ -153,5 +153,5 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
 
 ## Statistics 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fqueis&theme=black-ice"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fqueis&theme=black-ice&ring=1DA9FF&fire=1DA9FF&currStreakLabel=1DA9FF"/>
 </p>
