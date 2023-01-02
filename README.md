@@ -95,8 +95,8 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
   <a href="https://mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/-mongodb-black?style=for-the-badge" />
   </a>
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/-cassandra-black?style=for-the-badge" />
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-redis-black?style=for-the-badge" />
   </a>
   <a href="https://firebase.google.com" target="_blank">
     <img src="https://img.shields.io/badge/-firebase-black?style=for-the-badge" />
@@ -108,7 +108,7 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
 
 <details>	
   <summary><b>Mobile (beginner)</b></summary>
-  <a href="https://mysql.com/" target="_blank">
+  <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-flutter-black?style=for-the-badge" />
   </a>
 </details>
@@ -137,6 +137,9 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
 
 <details>	
   <summary><b>Others</b></summary>
+  <a href="https://rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-rabbitmq-black?style=for-the-badge" />
+  </a>
   <a href="https://slack.com/" target="_blank">
     <img src="https://img.shields.io/badge/-slack-black?style=for-the-badge" />
   </a>
