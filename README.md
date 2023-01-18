@@ -21,7 +21,7 @@
 I'm Felipe Queis, a computer system analysis bachelor with over 10 years of experience in the field. I love learning about new technologies every day.
 Currently, I am a senior full-stack engineer at a Brazilian government traffic institution, where I work on developing efficient, secure, and robust applications. In my free time, I am also enthusiastic about cryptocurrency and staying up-to-date with the latest developments in the field.
 
-## My Tech Stack
+## My tech knowledge
 
 <details>	
   <summary><b>Programming Languages</b></summary>
