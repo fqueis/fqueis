@@ -140,6 +140,9 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
   <a href="https://rabbitmq.com/" target="_blank">
     <img src="https://img.shields.io/badge/-rabbitmq-black?style=for-the-badge" />
   </a>
+  <a href="https://kafka.apache.org" target="_blank">
+    <img src="https://img.shields.io/badge/-kafka-black?style=for-the-badge" />
+  </a>
   <a href="https://slack.com/" target="_blank">
     <img src="https://img.shields.io/badge/-slack-black?style=for-the-badge" />
   </a>
