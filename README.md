@@ -107,7 +107,7 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
 </details>
 
 <details>	
-  <summary><b>Mobile (beginner)</b></summary>
+  <summary><b>Mobile</b></summary>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-flutter-black?style=for-the-badge" />
   </a>
