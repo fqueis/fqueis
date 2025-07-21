@@ -155,4 +155,4 @@ Currently, I am a senior full-stack engineer at a Brazilian government traffic i
 </details>
 
 ## Statistics
-<a href="https://fqueis.dev"><img src="https://github-readme-streak-stats-q9cojxutx-fqueis-projects.vercel.app?user=fqueis&theme=github-dark-blue&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://fqueis.dev"><img src="https://github-readme-streak-stats-gray-kappa-54.vercel.app?user=fqueis&theme=github-dark-blue&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
